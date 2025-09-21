@@ -1,2 +1,3 @@
-# STUDY-
-AI DRIVEN  WEBSITE WHICH HELPS TO THE STUDENT TO PERSUE THEIRE DREAMS 
+## Prototype link 
+[click here to view the live prototype ]
+(https://ai-career-pathfinder-mu.vercel.app/onboarding)
